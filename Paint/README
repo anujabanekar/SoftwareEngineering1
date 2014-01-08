@@ -1,0 +1,63 @@
+Pretty Painter - application  for drawing and entertainment!
+Create your masterpieces or make simple sketches! It's a great way to spend your free time!
+
+Application features:
+- Size, color and type tool setting
+- Work result saving
+- Setting picture as wallpaper
+- Opening of the previously created files
+- Undo the last action
+- Sending a file via Twitter, Facebook, email, etc. (Client application must be installed)
+
+Versions history:
+-----------------
+***** v1.18 *****
+- Enabled hardware acceleration on Android 3.x or higher
+- Fixed display bugs on the ICS
+- Changed theme of the application
+- Minor fixes
+
+***** v1.17 *****
+- Fixed incorrect work of undo/redo functions after the loss of canvas focus 
+- Graphics interface optimize
+
+***** v1.16 *****
+- Improve the undo/redo algorithms
+- Fixed the "just a blank screen" error on some devices
+- Changed some menu icons
+
+***** v1.15 *****
+- Ability to set a picture as a wallpaper added. Thanks Constantine Chartomatzis 
+- Added a setting behavior when exiting the application 
+- Added backup setting for opened files    
+- Added an action setting for volume control buttons
+- Improved orientation determination of opened files 
+- Fixed a bug resulting in data loss when opening the hardware keyboard
+
+***** v1.11 *****
+- Scale added with opening large files
+- Blank screen bug fixed in brush settings window, after cleaning canvas in Android 2.3.3
+- Double save after screen rotation removed
+- Graphics interface optimize
+
+***** v1.1 *****
+- File open function added (only png supported)
+- Undo function added 
+- Settings added
+- Permissions changed
+- Application main icon changed
+- Tools icons changed
+- A lot of small modifications
+
+***** v1.02 *****
+- Fixed a bug in the brush settings window. Options did not display in Android 2.3.3 (Thanks to Rinat (RendeRR)) 
+- Fixed screen flicker when entering and leaving the brush installations window in Android 2.1 
+- Fixed a bug causing a discharge of the brush in the setup window 
+- Fixed bug of blur mismatch (inner and outer) to menu items 
+- Fixed a bug when you turn the new, changed, but not saved file, resulting in data loss
+
+***** v1.01 *****
+- Fixed bug when sharing a new, unmodified file, that causes the crash application
+
+***** v1.0 *****
+- Release
